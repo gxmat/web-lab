@@ -1,0 +1,27 @@
+.testborder {
+  /* border: solid pink; */
+  border-color: grey;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.button {
+  /* border: solid blue; */
+  height: 4rem;
+  width: 30%;
+  min-width: 10%;
+  background-color: deepskyblue;
+  border-radius: 4px;
+  border-color: dodgerblue;
+  border-style: solid;
+  box-shadow: 0px 6px 10px 2px dodgerblue;
+}
+
+.buttontext {
+  font-family: sans-serif;
+  font-size: medium;
+}
+
+.gridcontainer {
+  display: inline-grid;
+}
